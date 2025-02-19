@@ -27,3 +27,4 @@ Traversal – Displays the list elements sequentially.
 Exit – Terminates the program.
 Each operation is implemented as a separate function to ensure modularity and maintainability.
 
+**OUTPUT**: https://github.com/user-attachments/files/18871258/Task.2.op.docx
